@@ -1,0 +1,1 @@
+enum textFieldType { textField, emailField }
